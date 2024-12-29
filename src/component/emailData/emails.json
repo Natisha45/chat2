@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "subject": "Security alert",
+      "sender": "Google <no-reply@accounts.google.com>",
+      "date": "Fri, Dec 6, 10:13 AM",
+      "body": "We noticed a new sign-in to your Google Account on a Windows device. If this was you, you don’t need to do anything. If not, we’ll help you secure your account."
+    },
+    {
+      "id": 2,
+      "subject": "Meeting Reminder",
+      "sender": "HR Team <hr@company.com>",
+      "date": "Mon, Dec 9, 2:30 PM",
+      "body": "This is a reminder for the scheduled meeting tomorrow at 10:00 AM in the conference room. Please be prepared to discuss the Q4 results."
+    }
+  ]
+  
